@@ -1,0 +1,16 @@
+{
+  "title": "Darkweb everywhere",
+  "name": "darkweb-everywhere",
+  "version": "0.0.1",
+  "description": "Due to the way Tor works, when you connect to sites which are not hidden services you must connect through an exit node. ",
+  "main": "index.js",
+  "author": "Alenan",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ]
+}
